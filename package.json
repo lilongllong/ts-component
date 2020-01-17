@@ -12,7 +12,7 @@
   "author": "李隆隆 <2453085960@qq.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:lilongllong/ts-component.git"
   },
   "license": "MIT",
   "engines": {
